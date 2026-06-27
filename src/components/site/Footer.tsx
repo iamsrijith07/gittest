@@ -5,7 +5,7 @@ export function Footer() {
         <div>
           <div className="flex items-center gap-2.5">
             <span className="grid place-items-center w-9 h-9 rounded-full bg-ink text-background font-display">g</span>
-            <div className="font-display text-lg text-ink">Growth Studio</div>
+            <div className="font-display text-lg text-ink">kaizen</div>
           </div>
           <p className="mt-4 text-sm text-muted-foreground max-w-xs">
             A one-person growth practice for businesses that want measurable
@@ -27,7 +27,7 @@ export function Footer() {
 
       <div className="border-t border-line">
         <div className="container-tight py-6 flex flex-wrap items-center justify-between gap-4 text-xs text-muted-foreground">
-          <div>© {new Date().getFullYear()} Growth Studio. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} Kaizen. All rights reserved.</div>
           <div className="italic font-display text-sm text-ink">Built with growth in mind.</div>
         </div>
       </div>

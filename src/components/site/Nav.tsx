@@ -23,11 +23,11 @@ export function Nav() {
       <div className="container-tight flex items-center justify-between py-4">
         <a href="#top" className="flex items-center gap-2.5 group">
           <span className="relative grid place-items-center w-9 h-9 rounded-full bg-ink text-background">
-            <span className="font-display text-lg leading-none">g</span>
+            <span className="font-display text-lg leading-none">k</span>
             <span className="absolute inset-0 rounded-full pulse-ring border border-accent/60" />
           </span>
           <div className="leading-tight">
-            <div className="font-display text-base text-ink">Growth Studio</div>
+            <div className="font-display text-base text-ink">Kaizen</div>
             <div className="text-[10px] uppercase tracking-[0.22em] text-muted-foreground">est. 2022</div>
           </div>
         </a>

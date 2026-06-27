@@ -14,7 +14,7 @@ const items = [
     role: "Ayoham Dining",
   },
   {
-    quote: "Strategic, sharp, and genuinely invested. Feels less like a vendor and more like a co-founder.",
+    quote: "Their clarity, execution, and attention to detail are exceptional.They didn't just deliver a project—they helped shape the direction of our business.",
     name: "Inversa Technosoft",
     role: "Leadership",
   },
